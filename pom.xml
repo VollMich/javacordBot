@@ -5,6 +5,8 @@
    <groupId>mycode</groupId>
    <artifactId>javacordBot</artifactId>
    <version>0.0.1-SNAPSHOT</version>
+   <description>Einfaches Testprojekt zur Entwicklung eines discord-Bots mit der javacord API</description>
+   <url>https://github.com/VollMich/javacordBot</url>
    <properties>
       <maven.compiler.source>1.8</maven.compiler.source>
       <maven.compiler.target>1.8</maven.compiler.target>
